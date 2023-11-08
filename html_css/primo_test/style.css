@@ -1,0 +1,43 @@
+/* body {
+  background-color: yellow;
+}
+
+h1 {
+  color: blue;
+}
+
+.red {
+  background-color: red;
+  height: 300px;
+  width: 300px;
+  margin: 30px;
+}
+
+.green {
+  background-color: green;
+  height: 300px;
+  width: 300px;
+}
+
+.blu {
+  background-color: blue;
+  height: 300px;
+  width: 300px;
+} */
+
+.square {
+  height: 300px;
+  width: 300px;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blu {
+  background-color: blue;
+}
